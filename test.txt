@@ -6,4 +6,4 @@ merge master
 push faild
 
 
-try again
+try ag
